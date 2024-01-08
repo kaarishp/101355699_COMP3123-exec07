@@ -1,2 +1,2 @@
 -- Kaarish Parameswaran
--- COMP3123 React App Lab Exercise 7
+-- My First Ever React JS Personal Website
